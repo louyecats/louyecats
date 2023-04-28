@@ -1,4 +1,13 @@
 ### Hi there 👋
+* 🔆 **Name** - Stacey Lou
+* 🤖 **Current mission** - graduate from MERN full-stack course at [Coding Dojo Bootcamp](https://https://www.codingdojo.com/)
+* 🌱 **This moment** - learning MongoDB and Express
+* 🚀 **Completed missions** - Python full-stack
+* 🌿 **Growth goals** - build up my portfolio and learn intermediate skills
+* 🙌 **Collaboration goals** - projects within healthtech, education, non-profits or [Tech For Good](https://techjobsforgood.com/)
+* 🫀 **Hobbies** - hiking, kayaking, traveling, crafting, designing and reading
+* 💟 **Pronouns** - she/her
+
 
 <!--
 **louyecats/louyecats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
