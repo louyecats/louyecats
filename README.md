@@ -5,9 +5,7 @@
 <h1 align="center">Welcome!</h1>
 <h3 align="center">I'm a fresh full-stack developer with a focus on front-end development. I'm experienced in MERN and Python. I love the creative process of making new ideas come to life through code. I'm focused on improving my current skills and am excited to learn new languages, frameworks, platforms and libraries.</h3>
 
-## Connect with me on LinkedIn! 
-<a href=”https://www.linkedin.com/in/stacey-frohnapfel/"><img align=”left” src=”https://raw.githubusercontent.com/louyecats/images/main/linkedin.png" alt=”icon | LinkedIn” width=”21px”/></a>
-</br>
+## Connect with me on [LinkedIn](https://www.linkedin.com/in/stacey-frohnapfel/)!
 
 ## I'm currenlty working on:
 - A solo full-stack project in React for Pet Records
@@ -43,17 +41,4 @@
 ## My GitHub Stats:
 [![Stacey’s github stats](https://github-readme-stats.vercel.app/api?username=louyecats)](https://github.com/louyecats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louyecats&layout=compact)](https://github.com/louyecats)<!--
-**louyecats/louyecats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louyecats&layout=compact)](https://github.com/louyecats)
