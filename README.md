@@ -7,8 +7,7 @@
 </br>
 
 ## 💻 I'm currenlty working on:
-- A solo full-stack project in React for Pet Records
-- A team collab full-stack project in React for Plant Maintenance
+- A team collab full-stack project in React where teachers can create supply lists for students
 
 ## 🌱 I'm currently learning:
 - React Native
